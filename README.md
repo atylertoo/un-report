@@ -2,4 +2,4 @@
 
 We plotted life expectancy over time. 
 
-Each poitn represents a country.
+Each point represents a country.
